@@ -1,5 +1,7 @@
 ///random c/c++ scripts
 
+using namespace std;
+
 int Fact(int num)
 {
   int sum=1;
